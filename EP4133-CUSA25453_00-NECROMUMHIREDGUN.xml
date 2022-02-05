@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA25453" content_id="EP4133-CUSA25453_00-NECROMUMHIREDGUN" />
+  <patches>
+    <patch description="Remove Duplicate Content" pkg_required_version="01.00" update_version_required="01.08">
+	<file path="necromunda/content/movies/cybermovies/attraction_control.mp4" />
+	<file path="necromunda/content/movies/cybermovies/augur_array.mp4" />
+	<file path="necromunda/content/movies/cybermovies/autosanguine.mp4" />
+	<file path="necromunda/content/movies/cybermovies/bio_booster.mp4" />
+	<file path="necromunda/content/movies/cybermovies/blast.mp4" />
+	<file path="necromunda/content/movies/cybermovies/crush.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_1.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_10.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_11.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_12.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_13.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_14.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_15.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_16.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_17.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_18.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_2.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_3.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_4.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_5.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_6.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_7.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_8.mp4" />
+	<file path="necromunda/content/movies/cybermovies/cyberdemo_9.mp4" />
+	<file path="necromunda/content/movies/cybermovies/ferric_lure.mp4" />
+	<file path="necromunda/content/movies/cybermovies/grapnel.mp4" />
+	<file path="necromunda/content/movies/cybermovies/haywire_pulse.mp4" />
+	<file path="necromunda/content/movies/cybermovies/heightened_senses.mp4" />
+	<file path="necromunda/content/movies/cybermovies/maglev_coil.mp4" />
+	<file path="necromunda/content/movies/cybermovies/perfect_aim.mp4" />
+	<file path="necromunda/content/movies/cybermovies/repulsion_control.mp4" />
+	<file path="necromunda/content/movies/cybermovies/shock.mp4" />
+	<file path="necromunda/content/movies/cybermovies/strength_booster.mp4" />
+	<file path="necromunda/content/movies/cybermovies/suspensors.mp4" />
+	<file path="necromunda/content/movies/cybermovies/walljump.mp4" />
+	<file path="necromunda/content/movies/cybermovies/wallrun_aimassist.mp4" />
+	<file path="necromunda/content/movies/introvideo.mp4" />
+	<file path="necromunda/content/movies/loadingscreen.mp4" />
+	<file path="necromunda/content/movies/prologue.mp4" />
+	<file path="necromunda/content/paks/pakchunk0-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk1-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk10-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk11-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk12-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk13-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk2-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk3-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk4-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk5-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk6-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk7-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk8-ps4.pak" />
+	<file path="necromunda/content/paks/pakchunk9-ps4.pak" />
+   </patch>
+   <patch description="fake patch to repack update" pkg_required_version="01.08" update_version_required="01.08" />
+  </patches>
+</pkgpatch>
